@@ -1,0 +1,28 @@
+---
+layout: page
+title: Latest Posts
+---
+<ul class="post-list"> <!--<ul>无序列表,并调用一个post-list的css样式。-->
+{% for post in site.posts limit:15 %} 
+  <li> <!--列表标签 -->
+  	<article> <!--<article> 标签规定独立的自包含内容。 -->
+  		<a href="{{ site.url }}{{ post.url }}"> <!--<a href="">创建超链接</a> -->
+  			{{ post.title }} 
+  			<span class="entry-date">
+  				<time datetime="{{ post.date | date_to_xmlschema }}">
+  					{{ post.date | date: "%B %d, %Y" }}
+  				</time>
+  			</span>
+  		</a>
+  	</article>
+  </li>
+{% endfor %}
+</ul>
+<br/>
+<br/>
+<br/>
+<!--
+<a markdown="0" href="{{ site.url }}{{ post.url }}" class="btn">
+    More Posts
+</a>
+-->

@@ -20,7 +20,7 @@ favicon: /public/img/@.ico
 
 # google analytics 设置
 ga:
-  id: UA-52177833-1
+  id: UA-54775781-1
   url: zinbers.github.io
 
 # disqus 设置

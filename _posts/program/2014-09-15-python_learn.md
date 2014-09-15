@@ -2,7 +2,7 @@
 layout: post
 title: python 学习
 category: 编程
-tags: 编程,python
+tags: python
 keywords: python,编程
 description: 
 ---

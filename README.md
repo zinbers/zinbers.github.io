@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://liuhuimin.github.io](http://liuhuimin.github.io)
+地址：[http://zinbers.github.io](http://zinbers.github.io)
 
 ### 安装说明
 

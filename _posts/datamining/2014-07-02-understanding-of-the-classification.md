@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我对分类的一些理解
-category: 数据挖掘
+category: 数据
 tags: 分类
 keywords: 数据挖掘，分类，特征
 description: 

@@ -28,7 +28,7 @@ disqus:
   shortname: zinbers
 
 # 主题设置，自动激活某个标签
-active: lua
+active: 数据
 
 # 首页除了最新文章外显示分类
 cates: 

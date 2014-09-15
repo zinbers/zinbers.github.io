@@ -1,12 +1,12 @@
 ---
 layout: post
-title: python 学习
+title: python note3.4.1
 category: 编程
 tags: python
 keywords: python,编程
 description: 
 ---
-![]http://www.nationalgeographic.com.cn/news/1772.html
+![]http://www.nationalgeographic.com.cn/uploadfile/2014/0915/20140915035814474.jpg
 >##3.4.1模块结构与布局
 
 >#1.起始行(Unix)#

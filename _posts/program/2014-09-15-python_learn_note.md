@@ -1,6 +1,6 @@
 ---
 layout: post
-title: python note3.4.1
+title: python note3_4_1
 category: 编程
 tags: python
 keywords: python,编程

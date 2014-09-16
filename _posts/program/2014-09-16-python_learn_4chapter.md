@@ -28,7 +28,7 @@ description:
 ```
 
 #python 不支持的类型
->1.char or byte</br>
+>1.*char* or *byte* </br>
 >2. 指针 </br>
 >3. *int* vs *short* vs *long* </br>
 >4. *float* vs *double*</br>

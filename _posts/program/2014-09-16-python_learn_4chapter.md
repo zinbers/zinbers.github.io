@@ -22,7 +22,7 @@ description:
 >11. {}(空字典)
 *其他的都是True*
 
-#判断对新类型使用 isinstance()
+#判断对象类型使用 isinstance()
 ```python
     if isinstance(num, int) ...
 ```

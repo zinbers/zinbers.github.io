@@ -8,7 +8,7 @@ description:
 ---
 ![cute](http://funnzoo.com/gallery/acc8fbd57f34a8c6c86e150767d06e3c)
 ###python 核心编程第四章
-#bool 值为false的情况
+#bool 值为False的情况
 >1. None
 >2. False(布尔类型)
 >3. 所有的值为零的数

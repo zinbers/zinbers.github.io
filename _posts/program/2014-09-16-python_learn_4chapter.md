@@ -17,7 +17,7 @@ description:
 >6. 0L(长整型)
 >7. 0.0+0.0j(复数)
 >8. ""(空字符串)
->9. [](空列表)
+>9. \[\]\(空列表\)
 >10. ()(空元组)
 >11. {}(空字典)
 *其他的都是True*
@@ -28,7 +28,7 @@ description:
 ```
 
 #python 不支持的类型
->1.char or byte
->2. 指针
->3. *int* vs *short* vs *long*
->4. *float* vs *double*
+>1.char or byte</br>
+>2. 指针 </br>
+>3. *int* vs *short* vs *long* </br>
+>4. *float* vs *double*</br>

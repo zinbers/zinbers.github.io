@@ -6,7 +6,7 @@ tags: python
 keywords: python,编程
 description: 
 ---
-<table>
+<table border="1">
 	<tr>
 		<th>函数</th>
 		<th>含义</th>

@@ -19,3 +19,5 @@ description:
 aaa | bbbb
 -----|------
 hello|sailor
+
+this is ==highlighted== zzz

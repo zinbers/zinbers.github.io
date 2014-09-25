@@ -10,30 +10,3 @@ description:
 | ------ | ------: |
 | list(iter) | 把可迭代对象转换为列表|
 
-
-
-| aaa | bbbb |
-|-----+------|
-|hello|sailor|
-
-aaa | bbbb
------|------
-hello|sailor
-
-this is ==highlighted== zzz
-</br>
-_hel_
-</br>
--aa
-</br>
-=bb
-</br>
-
-~~~highlight haha
-{sdffds}
-
-###===
-sss   fdfs
-###===
-sdf   sfs
-###===

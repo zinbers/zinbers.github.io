@@ -15,3 +15,7 @@ description:
 | aaa | bbbb |
 |-----+------|
 |hello|sailor|
+
+aaa | bbbb
+-----|------
+hello|sailor

@@ -15,5 +15,22 @@ description:
 		<th>list(iter)</th>
 		<th>把可迭代对象转换为列表</th>
 	</tr>
+	<tr>
+		<th>str(obj)</th>
+		<th>把obj对象转换成字符串(对象的字符串表示法)</th>
+	</tr>
+	<tr>
+		<th>unicode(obj)</th>
+		<th>把对象转换成Unicode字符串(使用默认编码)</th>
+	</tr>
+	<tr>
+		<th>basestring()</th>
+		<th>抽象工厂函数，其作用仅仅是为str和unicode函数提供父类,
+		所以不能被实例化,也不能被调用</th>
+	</tr>
+	<tr>
+		<th>tuple(iter)</th>
+		<th>把一个可迭代对象转换成一个元组对象</th>
+	</tr>
 </table>
 

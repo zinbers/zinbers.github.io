@@ -21,4 +21,10 @@ aaa | bbbb
 hello|sailor
 
 this is ==highlighted== zzz
+</br>
 _hel_
+</br>
+-aa
+</br>
+=bb
+</br>

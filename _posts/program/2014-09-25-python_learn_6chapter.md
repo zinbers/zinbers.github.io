@@ -9,8 +9,8 @@ description:
 ![秋分](http://www.nationalgeographic.com.cn/uploadfile/2014/0925/20140925023851954.jpg)
 <table border="1">
 	<tr>
-		<th>函数</th>
-		<th>含义</th>
+		<th><center>函数</center></th>
+		<th><center>含义</center></th>
 	</tr>
 	<tr>
 		<th>list(iter)</th>

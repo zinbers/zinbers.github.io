@@ -6,6 +6,7 @@ tags: python
 keywords: python,编程
 description: 
 ---
+![秋分](http://www.nationalgeographic.com.cn/uploadfile/2014/0925/20140925023851954.jpg)
 <table border="1">
 	<tr>
 		<th>函数</th>

@@ -6,7 +6,7 @@ tags: string match
 keywords: string match program
 description: 
 ---
-<!-- lang:cpp-->
+```cpp
 #include <iostream>
 #include <string.h>
 using namespace std;
@@ -52,3 +52,4 @@ int main(void)
 	cout<<"pos:"<<pos<<endl;
 	return 0;
 }
+```

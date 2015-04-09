@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BMFont
+title: cocos2dx_BMFont
 category: 编程
 tags: cocos2dx bmfont
 keywords: cocos2dx bmfont program texturepacker

@@ -8,7 +8,7 @@ description:
 ---
 ![春，来了](http://image.nationalgeographic.com.cn/2015/0417/20150417032313964.jpg)
 
-###转自 <a href="http://www.cnitblog.com/kenlistian/archive/2008/10/15/50292.html">http://www.cnitblog.com/kenlistian/archive/2008/10/15/50292.html
+###转自 <a href="http://www.cnitblog.com/kenlistian/archive/2008/10/15/50292.html">http://www.cnitblog.com/kenlistian/archive/2008/10/15/50292.html </a>
 string.gsub 函数有三个参数：目标串，模式串，替换串。
 基本作用是用来查找匹配模式的串，并将使用替换串其替换掉： 
 

@@ -1,5 +1,5 @@
-<!-- ---
-layout: page
+---
+layout: base
 title: 归档
 comments: false
 ---
@@ -15,7 +15,7 @@ comments: false
       <ul>
     {% endif %}
     <li><span>{{ post.date | date: "%Y年-%m月-%d日" }}</span> &raquo; 
-      <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   
     {% if forloop.last %}
@@ -33,4 +33,4 @@ comments: false
         {% endif %}
       {% endif %}
     {% endif %}
-{% endfor %} -->
+{% endfor %}

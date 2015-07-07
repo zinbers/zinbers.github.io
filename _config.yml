@@ -14,7 +14,8 @@ github_username:  zinbers
 permalink: /:year/:month/:day/:title/
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+#kramdown
 
 # highlight
 # 本地用rouge, github上用pygments

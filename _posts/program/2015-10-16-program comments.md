@@ -6,7 +6,7 @@ tags: c++ comments
 keywords: c++ comments 
 description: 
 ---
-本博客网址：![]http://www.cnblogs.com/pengyingh/articles/2445826.html，转载本博客原创文章请注明出处。
+本博客网址：(http://www.cnblogs.com/pengyingh/articles/2445826.html)，转载本博客原创文章请注明出处。
 
 本文内容概要： 代码中特殊的注释技术——TODO、FIXME和XXX的用处。
 

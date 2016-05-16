@@ -48,4 +48,5 @@ echo<空格>"a<换行>b<换行>c"
 echo<空格>"a<换行>b<换行>c"
 1<换行>2<换行>3 被当作参数传给echo，然后就是你想要的结果了。
 也可以把IFS设成其他字符，例如IFS=,,然后echo $vb和echo "$vb"的结果是一样的，因为输入里没有IFS，不会被分词。
-##参考链接：<http://www.dewen.net.cn/q/15301/Linux%EF%BC%9A%E9%80%9A%E8%BF%87%E5%AD%90shell%E7%9A%84%E6%96%B9%E5%BC%8F%E4%BF%9D%E7%95%99%E7%A9%BA%E6%A0%BC%E5%92%8C%E6%8D%A2%E8%A1%8C%E7%AC%A6?sort=votes>
+##参考链接: 
+<http://www.dewen.net.cn/q/15301/Linux%EF%BC%9A%E9%80%9A%E8%BF%87%E5%AD%90shell%E7%9A%84%E6%96%B9%E5%BC%8F%E4%BF%9D%E7%95%99%E7%A9%BA%E6%A0%BC%E5%92%8C%E6%8D%A2%E8%A1%8C%E7%AC%A6?sort=votes>

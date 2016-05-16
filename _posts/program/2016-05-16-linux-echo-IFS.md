@@ -7,6 +7,7 @@ keywords: linux shell echo
 description: 
 ---
 前几天在些shell的时候遇到一个有趣的问题
+
 ```bash
 #!/usr/bin/env bash
 va="a b c"
@@ -15,6 +16,7 @@ echo $b
 echo '------'
 echo "$b"
 ```
+
 输出：
 a b c
 -----

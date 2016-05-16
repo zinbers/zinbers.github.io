@@ -13,14 +13,14 @@ description:
 va="a b c"
 vb=`echo $va | tr ' ' '\n'`
 echo $b
-echo '------'
+echo '========'
 echo "$b"
 ```
 
 输出:
 
 a b c
-"-----"
+=======
 a<br>
 b<br>
 c<br>

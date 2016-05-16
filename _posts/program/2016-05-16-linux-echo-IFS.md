@@ -17,12 +17,14 @@ echo '------'
 echo "$b"
 ```
 
-输出：
+输出:
+
 a b c
+
 -----
-a
-b
-c
+a<br>
+b<br>
+c<br>
 
 我的换行符呢？
 google 了一下原来是IFS(Internal Field Separator) 在作怪啊。

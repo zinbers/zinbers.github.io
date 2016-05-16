@@ -38,14 +38,16 @@ google 了一下原来是IFS(Internal Field Separator) 在作怪啊。
 >echo<空格>a<换行>b<换行>c</br>
 >--根据IFS分词--></br>
 >echo<空格>a<空格>b<空格>c</br>
-所以用a、b、c作为参数调用echo。</br>
 
+所以用a、b、c作为参数调用echo。</br>
 这时候只要加上双引号阻止分词就可以了：</br>
+
 >echo<空格>"$vb"</br>
 >--展开vb--></br>
 >echo<空格>"a<换行>b<换行>c"</br>
 >--根据IFS分词,双引号里不分词--></br>
 >echo<空格>"a<换行>b<换行>c"</br>
+
 1<换行>2<换行>3 被当作参数传给echo，然后就是你想要的结果了。</br>
 也可以把IFS设成其他字符，例如IFS=,,然后echo $vb和echo "$vb"的结果是一样的，因为输入里没有IFS，不会被分词。
 ##参考链接: 

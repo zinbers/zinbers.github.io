@@ -9,7 +9,7 @@ description: 手游开发者
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
+twitter_username: zinber.z
 github_username:  zinbers
 permalink: /:year/:month/:day/:title/
 

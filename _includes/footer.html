@@ -2,6 +2,17 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
+        <!-- Styled -->
+        <div class="realtimeuserscounter realtimeuserscounter--styled"></div>
+        <script src="https://realtimeusers.bycontrast.co/realtimeusers.js"></script>
+
+        <!-- Plain -->
+        <div class="realtimeuserscounter"></div>
+        <script src="https://realtimeusers.bycontrast.co/realtimeusers.js"></script>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
         <a href="mailto:{{ site.email }}"><span class="glyphicon glyphicon-envelope"></span> {{ site.email }}</a>
         <span class="point"> · </span>
         {% if site.github_username %}
@@ -38,13 +49,6 @@
           <span>&copy; 2016 zinbers</span>
           <span class="point"> · </span>
           <span>Designed by <a href="https://github.com/zinbers">zinbers</a></span>
-          <!-- Styled -->
-          <div class="realtimeuserscounter realtimeuserscounter--styled"></div>
-          <script src="https://realtimeusers.bycontrast.co/realtimeusers.js"></script>
-
-          <!-- Plain -->
-          <div class="realtimeuserscounter"></div>
-          <script src="https://realtimeusers.bycontrast.co/realtimeusers.js"></script>
       </div>
     </div>
   </div>

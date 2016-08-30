@@ -60,6 +60,6 @@ ssh -p 1022 root@192.168.199.1
 mtd -r write /tmp/breed-mt7620-hiwifi-hc5761.bin u-boot
 ```
 
->>>等待路由重启成功，breed 已经完成了刷入了。
+等待路由重启成功，breed 已经完成了刷入了。
 
 

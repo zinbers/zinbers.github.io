@@ -19,3 +19,16 @@ description:
 ok，[我发现这个链接写的很清楚了,点我](http://www.jb51.net/network/358520.html)
 
 
+>2.刷breed
+现在应该已经开通root权限了.
+>>下载 breed
+根据breed作者的介绍链接[点我](http://www.right.com.cn/forum/thread-161906-1-1.html)
+去下载极路由1s(h5661) 对应的版本[breed-mt7620-hiwifi-hc5761.bin](http://breed.hackpascal.net/breed-mt7620-hiwifi-hc5761.bin)
+
+>>上传breed到路由器
+有一定linux基础可以一条命令搞定
+scp -P 1022 /path/to/breed-xxx.bin root@192.168.199.1:/tmp
+接着输入路由器密码,这样就上传breed到路由器的/tmp目录下了.
+
+
+

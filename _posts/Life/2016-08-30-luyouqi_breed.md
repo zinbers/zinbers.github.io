@@ -54,7 +54,7 @@ ssh -p 1022 root@192.168.199.1
 
 >>windows下 使用 putty 登入你的极路由，账号密码端口与上述相同
 
->>>登入成功后键入以下命令  
+登入成功后键入以下命令  
 
 ```bash
 mtd -r write /tmp/breed-mt7620-hiwifi-hc5761.bin u-boot

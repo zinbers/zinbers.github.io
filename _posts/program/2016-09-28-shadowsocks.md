@@ -56,5 +56,5 @@ fi
 
 ```
 
-在mac os上测试通过。
+#在mac os上测试通过。 [所需文件链接](https://github.com/zinbers/shadowsocks_profiles)
 

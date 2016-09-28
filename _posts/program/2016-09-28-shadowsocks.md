@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 科学上网 shadowsocks for mac 配置表批量导入
+title: shadowsocks for mac 配置表批量导入
 category: shell 
 tags: shell
 keywords: shell, shadowsocks, mac

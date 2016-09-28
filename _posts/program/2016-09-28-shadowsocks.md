@@ -1,13 +1,15 @@
 ---
 layout: post
-title: 科学上网shadowsocks for mac 配置表批量导入
-category:shell 
-tags:shell
+title: 科学上网 shadowsocks for mac 配置表批量导入
+category: shell 
+tags: shell
 keywords: shell, shadowsocks, mac
 description:
 ---
 1. 首先需要一个名字为ss_cfg.json的配置文件,和下面的脚本文件放在同一目录
+
 json配置如下，需要配置多个的话，复制profiles里面的就行了，注意json格式，配置好了可以到网上在线解析json网站检查一下格式是否配置正确。
+
 ```json
 {
   "current": 1,
@@ -25,7 +27,8 @@ json配置如下，需要配置多个的话，复制profiles里面的就行了�
 password 就是密码啦，method就是混淆方式,server_port 就是 远程服务器的端口 ,remarks 备注信息，可甜可不填, server 就是远程服务器地址，ip或者域名
 
 2. 上一步配置好json以后就跑一下下面的脚本，重启一个shadowsocks 就好了
-```shell
+
+```bash
 #!/bin/bash
 if [ -s "$HOME/Library/Preferences/clowwindy.ShadowsocksX.plist" ]; then
     plutil -convert xml1 $HOME/Library/Preferences/clowwindy.ShadowsocksX.plist -o tmp.xml

@@ -26,6 +26,7 @@ json配置如下，需要配置多个的话，复制profiles里面的就行了�
 ```
 password 就是密码啦，method就是混淆方式,server_port 就是 远程服务器的端口 ,remarks 备注信息，可甜可不填, server 就是远程服务器地址，ip或者域名
 
+
 2. 上一步配置好json以后就跑一下下面的脚本，重启一个shadowsocks 就好了
 
 ```bash

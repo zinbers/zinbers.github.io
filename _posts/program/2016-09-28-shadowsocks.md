@@ -58,4 +58,4 @@ fi
 
 #在mac os上测试通过。 [文件链接](https://github.com/zinbers/shadowsocks_profiles)
 
-#ps: 新增ping 速度测试脚本
+#ps: 新增ping 速度测试脚本 [文件链接](https://github.com/zinbers/shadowsocks_profiles/blob/master/test_speed.sh)

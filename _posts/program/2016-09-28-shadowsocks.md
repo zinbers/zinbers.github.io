@@ -5,6 +5,7 @@ category: shell
 tags: shell
 keywords: shell, shadowsocks, mac
 description:
+comments: true
 ---
 >1 首先需要一个名字为ss_cfg.json的配置文件,和下面的脚本文件放在同一目录
 

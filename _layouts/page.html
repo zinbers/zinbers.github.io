@@ -9,4 +9,9 @@ layout: default
     <article class="page-content">
         {{ content }}
     </article>
+    <div class="comments">
+        {% if page.comments %}
+          {% include comments.ext %}
+        {% endif %}
+    </div>
 </div>
